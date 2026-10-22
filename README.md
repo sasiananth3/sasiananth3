@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm a **pre-final-year Computer Science and Engineering student** with a strong foundation in programming, problem solving, data structures, and full-stack application development.
+I'm a **Final-year Computer Science and Engineering student** with a strong foundation in programming, problem solving, data structures, and full-stack application development.
 
 I enjoy building **web applications, developer tools, dashboards, and AI/computer-vision projects** using modern technologies. I'm particularly interested in developing practical applications that combine clean user experiences with reliable backend systems.
 
